@@ -1,4 +1,4 @@
-# 13-Team-06
+# Recitation-013-Team-06
 ### collaborators: 
  + Name : Moses Williams      
  + Name : Elizabeth Coleman  
@@ -11,3 +11,6 @@ These are in the same order as the names:
 + LiamMasias
 + nojay5
 
+##OverView
+###Process
+Liam made the repo, because the github classroom ran out of avaible ones. He then added everyone else as a collaborator. Once everyone had access, and was 
