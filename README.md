@@ -1,3 +1,8 @@
 # 13-Team-06
-collaborators: Moses Williams, Elizabeth Coleman, Liam Masias, Noah Turner
-jisdnks
+collaborators: 
+Name : Moses Williams      Github Username:
+Name : Elizabeth Coleman   Github Username:
+Name : Liam Masias         Github Username:
+Name : Noah Turner         Github Username:
+
+
